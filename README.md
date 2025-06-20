@@ -25,8 +25,6 @@ This project detects **suicidal ideation** in Hinglish (Hindi-English mixed) soc
 git clone <your-repo-url>
 cd <repo-folder>
 
-# Install dependencies
-pip install -r requirements.txt
 ```
 
 ---
