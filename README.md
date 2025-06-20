@@ -1,0 +1,2 @@
+# A-Lightweight-NLP-System-for-Detecting-Suicidal-Ideation-in-Code-Mixed-Hinglish-Social-Media-Posts
+This project detects suicidal ideation in Hinglish social media posts using natural language processing and machine learning. Models like Support Vector Classifier,XGBoost are trained for accurate classification, and LIME is integrated to provide clear, interpretable explanations showing which words influence web .
